@@ -12,6 +12,8 @@ Files
 
 ## official Microsoft upgrade docs (very good)
 
-- 1.1 to 2.0 [https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-3.1)
-- 2.0 to 2.1 [https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-3.1)
-
+- `1.1` to `2.0` [https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/1x-to-2x/?view=aspnetcore-3.1)
+- `2.0` to `2.1` [https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-3.1](https://docs.microsoft.com/en-us/aspnet/core/migration/20_21?view=aspnetcore-3.1)
+- `2.1` to `2.2` [https://docs.microsoft.com/en-us/aspnet/core/migration/21-to-22?view=aspnetcore-3.1&tabs=visual-studio](https://docs.microsoft.com/en-us/aspnet/core/migration/21-to-22?view=aspnetcore-3.1&tabs=visual-studio)
+- `2.2` to `3.0` [https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.1&tabs=visual-studio)
+- `3.0` to `3.1` [https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31?view=aspnetcore-3.1&tabs=visual-studio](https://docs.microsoft.com/en-us/aspnet/core/migration/30-to-31?view=aspnetcore-3.1&tabs=visual-studio)
