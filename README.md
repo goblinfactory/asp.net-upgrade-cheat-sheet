@@ -2,6 +2,10 @@
 
 very very quick and dirty highlights of some of the changes between asp.net versions from 1.1 to 3.1 for me when working with lots of different projects.
 
+#### How best to use the reference?
+
+It's a really big image, and pdf. Best is to download the drawio file, assuming you've installed the desktop version of draw.io. I have it installed on my mac (OSX) as well as windows.  
+
 Files
 
 - pdf : [upgrading-asp.net-projects-from-1.1-to-3.1.pdf](upgrading-asp.net-projects-from-1.1-to-3.1.pdf)
