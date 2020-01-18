@@ -1,6 +1,12 @@
-# asp.net-upgrade-cheat-sheet
+# asp.net migration code spotter cheat sheet 
 
 very very quick and dirty highlights of some of the changes between asp.net versions from 1.1 to 3.1 for me when working with lots of different projects.
+
+this is a placeholder draft, and can only be used by you first reading through all the actual upgrade docs (see list at the bottom). I'm using this as a quick way to spot a project that has been partially upgraded, and see quickly perhaps where the developer picked up his code from. 
+
+For example; I may have a project that was a asp.net core 1.1, that has been upgraded 'just enough' so that it almost works, and it's got bugs, and I've been asked to help. So I need a quick chart that shows me 'visually' where code patterns I might be looking at have come from, hence why so many small screenshots. (I'm a visual person, like pictures.)
+
+This is not meant as a step by step guide on how to migrate a project.
 
 #### How best to use the reference?
 
