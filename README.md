@@ -12,7 +12,9 @@ This is not meant as a step by step guide on how to migrate a project.
 
 It's a really big image, and pdf. Best is to download the drawio file, assuming you've installed the desktop version of draw.io. I have it installed on my mac (OSX) as well as windows.  
 
-Files
+I can easily see myself splitting this into a number of (smaller A3 or A4) cheatsheets focusing on different aspects of asp.net projects, starting with `startup` and `configuration`. 
+
+## Files
 
 - pdf : [upgrading-asp.net-projects-from-1.1-to-3.1.pdf](upgrading-asp.net-projects-from-1.1-to-3.1.pdf)
 - original drawio : [upgrading-asp.net-projects-from-1.1-to-3.1.drawio](upgrading-asp.net-projects-from-1.1-to-3.1.drawio)
